@@ -13,3 +13,4 @@ Step 8) Chose the repository to work from
 Step 9) select the repository to store
 Step 10) Add folder to repository
 
+- Node.js Installation 
