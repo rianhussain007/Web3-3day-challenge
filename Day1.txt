@@ -1,0 +1,15 @@
+Step 1) Installed GIT tool
+step 2) Installed Visual studio code
+Step 3) Installed Node.js  
+Step 4) created repository in GITHUB
+
+- To Clone from github (use Visual Studio Code)
+
+step 1) Go to view 
+step 2) Command palette
+Step 3) Git clone 
+Step 7) Clone from github(1 time)
+Step 8) Chose the repository to work from
+Step 9) select the repository to store
+Step 10) Add folder to repository
+
